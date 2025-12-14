@@ -63,5 +63,5 @@ BERT fine-tuning achieves the best overall performance and the most balanced res
 ## Author
 
 **Ta Anh Tuan**  
-Course: *M508C – Big Data / NLP*  
+Course: *M508C – Big Data Analytics*  
 GitHub: tuan-ta-digit-sense
